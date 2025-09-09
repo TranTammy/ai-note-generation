@@ -30,3 +30,4 @@ significant changes to the core logic. This can later be discussed on how often 
 
 1. Follow kebab case/dash case for all file naming convention.
 2. Before committing changes to documents/files, at least two peer reviews must take place.
+3. Attach appropriate description that "gives information that helps the understanding of each change."
